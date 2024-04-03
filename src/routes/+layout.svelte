@@ -1,9 +1,5 @@
        <h1>Каталог фильмов</h1>
-    
-
-
     <div class="container">
-
     <slot></slot>
     </div>
     <script>
